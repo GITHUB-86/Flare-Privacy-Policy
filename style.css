@@ -1,0 +1,16 @@
+body {
+  background-image: url("background.jpg"); /* Replace with the path to your image */
+  background-size: cover; /* Adjust how the image fits the screen */
+}
+
+h1 {
+    color: green;
+}
+
+h3 {
+    color: orange;
+}
+
+p {
+    color: yellow;
+}
